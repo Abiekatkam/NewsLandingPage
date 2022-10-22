@@ -1,3 +1,7 @@
+## Output
+
+[View here](https://abiekatkam.github.io/NewsLandingPage/)
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
